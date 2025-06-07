@@ -1,0 +1,9 @@
+numpy>=1.21.0
+torch>=1.12.0
+torchaudio>=0.12.0
+librosa>=0.9.0
+scikit-learn>=1.0.0
+PyAudio>=0.2.11
+openai-whisper>=20231117
+nemo-toolkit[asr]>=1.15.0
+soundfile>=0.12.1
